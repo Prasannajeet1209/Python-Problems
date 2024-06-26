@@ -1,0 +1,5 @@
+s=input("Enter String :")
+s1=len(s)
+s2=s.count('a')
+print(s1)
+print(s2)
